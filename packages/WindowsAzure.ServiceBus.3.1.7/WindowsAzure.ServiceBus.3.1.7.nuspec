@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WindowsAzure.ServiceBus</id>
+    <version>3.1.7</version>
+    <title>Microsoft Azure Service Bus</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkId=218949</licenseUrl>
+    <projectUrl>http://go.microsoft.com/fwlink/?LinkId=218964</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288890</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Use this for Microsoft Azure Service Bus Queues, Topics, EventHub and Relay backend operations. 
+        
+It adds Microsoft.ServiceBus.dll along with related configuration files to your project. This library allows AMQP 1.0 to be used as one of the protocols for communication with Microsoft Azure Service Bus. 
+        
+For more information on Messaging features, please visit: http://azure.microsoft.com/en-us/documentation/services/service-bus/
+For more information on Event Hub features, please visit: http://go.microsoft.com/fwlink/?LinkID=403957
+        
+Please note that this package requires .Net Framework 4.5 Full Profile.</description>
+    <summary>Client library for Microsoft Azure Service Bus Queues, Topics, EventHub and Relay backend operations.</summary>
+    <releaseNotes>Build: 2.0.50497.1
+• EventHub/Messaging: Fix a potential problem in the Amqp IO layer when reading the protocol header frame, which can cause exception to upper layer in some system.
+• Relay: Improve token handling to avoid errors from Relay client when the system run into clock skew condition.</releaseNotes>
+    <copyright>Copyright c Microsoft Corporation. All rights reserved.</copyright>
+    <tags>ServiceBus Microsoft Azure AppFabric Messaging PubSub Publish Subscribe Queue Topic Relay Service Bus AMQP OASIS windowsazureofficial EventHub Event</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.ServiceModel" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Runtime.Serialization" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

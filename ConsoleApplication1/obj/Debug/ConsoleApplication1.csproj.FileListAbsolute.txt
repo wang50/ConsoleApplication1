@@ -1,0 +1,8 @@
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

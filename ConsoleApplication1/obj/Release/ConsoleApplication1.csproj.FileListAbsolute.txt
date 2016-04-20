@@ -1,0 +1,7 @@
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\Microsoft.ServiceBus.dll
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\Microsoft.ServiceBus.xml
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\v-wuwa\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
